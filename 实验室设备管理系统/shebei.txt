@@ -1,0 +1,15 @@
+10099 jisuanji jisuanji 2020-5-25 5000yuan 66tai 2019-12-31
+10520 dadianjishiqi wuli 2020-9-30 150yuan 45tai 2020-6-20
+12001 tianping huaxue 2021-12-22 150yuan 25tai 2021-10-29
+10002 jisuanji jisuanji 2021-10-20 3000yuan 50tai 2021-9-15
+10008 dadianjishiqi wuli 2020-10-8 200yuan 66tai 2020-5-20
+10012 dayinji jisuanji 2019-2-30 1200yuan 20tai 2019-1-15
+20001 xianweijing shengwu 2019-12-20 1000yuan 25tai 2019-2-26
+10009 xueshengdianyuan wuli 2021-10-11 500yuan 50tai 2020-8-19
+10001 shaobei huaxue 2020-4-19 20yuan 60ge 2020-1-23
+10007 PHji huaxue 2021-7-15 15yuan 66bao 2021-6-20
+20025 saomiaoyi jisuanji 2020-2-20 7000yuan 12tai 2020-1-10
+31007 dianliubiao wuli 2021-10-10 50yuan 100ge 2021-5-20
+10050 peiyangmin shengwu 2021-3-25 100yuan 150ge 2021-1-15
+10056 dianyabiao wuli 2021-1-12 150yuan 60ge 2020-10-26
+20016 tuopantianping wuli 2022-1-2 250yuan 20ge 2021-12-20
